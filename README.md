@@ -46,7 +46,8 @@ craft**: shipping something real, finished, and pleasant to use in each.
 
 ### Learning
 
-- **Google Advanced Data Analytics** : 7-course professional certificate
+- **Mathematics for Machine Learning** (Imperial College London) : the mathematics underlying ML and data science, including gradient descent, regression modelling, and principal component analysis.
+- **Google Advanced Data Analytics** : 7-course professional certificate.
 
 ---
 
