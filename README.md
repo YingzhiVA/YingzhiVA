@@ -3,7 +3,8 @@
 <p align="center">
   <b>Yingzhi Vilimelis Aceituno</b> · Product Manager · 12 years · 0→1 builder<br>
   📍 Switzerland &nbsp;·&nbsp; 🟢 Open to new product roles<br>
-  I ship polished, end-to-end products, and I prototype them in code myself.
+  I ship polished, end-to-end products, and I prototype them in code myself.<br><br>
+  🧭 <b><a href="https://yingzhiva.github.io/">Portfolio &amp; bio → yingzhiva.github.io</a></b>
 </p>
 
 ---
@@ -13,7 +14,7 @@
 Product manager with 12 years of experience, most recently in **European digital
 wealth management (robo-advisory)**. I'm currently **open to new product
 opportunities**. I like taking things from a blank page to a working product:
-framing the problem, doing the analysis, and building the thing,  not just writing
+framing the problem, doing the analysis, and building the thing, not just writing
 the spec.
 
 The projects below are hobby and portfolio builds. They're deliberately across very
